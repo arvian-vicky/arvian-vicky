@@ -1,4 +1,4 @@
-## Hello World I,m Arfian Nurdavicky 👋
+## Hello I,m Arfian Nurdavicky 👋
 
 
 
