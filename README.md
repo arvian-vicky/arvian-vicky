@@ -1,6 +1,6 @@
 ## Hello World I,m Arfian Nurdavicky 👋
 
-<!--
+![Arfian Nurdavicky](img/github-header-image%20.png)
 **arvian-vicky/arvian-vicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
